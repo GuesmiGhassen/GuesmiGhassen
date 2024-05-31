@@ -20,7 +20,7 @@ I'm a passionate developer based in Tunisia. I love coding and am always eager t
 - Java
 - C/C++
 
-## ⚡ Fun fact
+## ⚡ Fun facts
 
 - 🎬 Favorite Netflix series: "Stranger Things" and "Manifest".
 - ✈️ As a kid, I wanted to be a pilot, but I ended up engineering my way through turbulence instead!
