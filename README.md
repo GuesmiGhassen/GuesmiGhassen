@@ -8,6 +8,7 @@ I'm a passionate developer based in Tunisia. I love coding and am always eager t
 
 ## 🌱 I’m currently learning...
 
+- Angular
 - Node.js
 - Express.js
 
