@@ -23,7 +23,7 @@ I'm a passionate developer based in Tunisia. I love coding and am always eager t
 ## ⚡ Fun fact
 
 - 🎬 Favorite Netflix series: "Stranger Things" and "Manifest".
-- ✈️ As a kid, I wanted to become a pilot and fly high in the sky.
+- ✈️ As a kid, I wanted to be a pilot, but I ended up engineering my way through turbulence instead!
 - ⚽️ I'm a huge fan of football, and my heart belongs to FC Barcelona.
 
 ## 📫 How to reach me
