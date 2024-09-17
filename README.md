@@ -26,8 +26,8 @@ I'm a passionate developer based in Tunisia. I love coding and am always eager t
 - Email: [ghassen.gasmi@ensi-uma.tn](mailto:ghassen.gasmi@ensi-uma.tn)
 - LinkedIn: [Guesmi-Ghassen](linkedin.com/in/guesmi-ghassen/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guesmighassen&show_icons=true&locale=en&layout=compact" alt="guesmighassen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guesmighassen&show_icons=true&locale=en&layout=compact&theme=prussian" alt="guesmighassen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guesmighassen&show_icons=true&locale=en" alt="guesmighassen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guesmighassen&show_icons=true&locale=en&theme=prussian" alt="guesmighassen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guesmighassen&" alt="guesmighassen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guesmighassen&theme=prussian" alt="guesmighassen" /></p>
