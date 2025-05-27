@@ -3,8 +3,8 @@ I'm a passionate developer based in Tunisia. I love coding and am always eager t
 
 ## 🔭 Projects
 
-- **IEEE ENSI SB Website**: The Official Website of the IEEE ENSI SB for the term 2023-2024. [Code Source](https://github.com/GuesmiGhassen/IEEE-ENSI-Student-Branch-Website.git)
-- **Sign Your Way**: An application for sign language. [Code Source](https://github.com/GuesmiGhassen/Sign-Your-Way-Application.git)
+- **IEEE ENSI SB Website**: The Official Website of the IEEE ENSI SB for the term 2023-2024. [Source Code](https://github.com/GuesmiGhassen/IEEE-ENSI-Student-Branch-Website.git)
+- **Sign Your Way**: An application for sign language. [Source Code](https://github.com/GuesmiGhassen/Sign-Your-Way-Application.git)
 
 ## 🌱 I’m currently learning...
 
